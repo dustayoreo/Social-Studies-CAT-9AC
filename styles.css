@@ -1,4 +1,6 @@
 .optionContainers {
   background-color: #90EE90;
   text-align: center;
+  padding: 20px;
+  border-radius: 20px;
 }
