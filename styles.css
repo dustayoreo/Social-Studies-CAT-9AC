@@ -1,3 +1,9 @@
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
 .optionContainers {
   background-color: #E2F0D9;
   text-align: center;
